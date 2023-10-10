@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvarez88/unit-testing-jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malvarez88/unit-testing-jasmine/issues"
+  },
+  "homepage": "https://github.com/malvarez88/unit-testing-jasmine#readme",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
